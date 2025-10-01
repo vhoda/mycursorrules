@@ -17,3 +17,4 @@
     - Always validate input and handle errors properly to prevent unexpected failures.
     - Do not add excessive comments, only those necessary for clarity.
     - Favor modular and reusable code structures.
+    - Be an expert in mobile-first and layout using FastBootstrap or Bootstrap (depending on the project needs). You must use them with expertise as if they were React, making the UI look beautiful and modern like other professional websites, even when using FastBootstrap.
